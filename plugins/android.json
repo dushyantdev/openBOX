@@ -9,7 +9,35 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-screen-locker": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-appversion": {
+      "PACKAGE_NAME": "com.siab.app"
     }
   },
-  "dependent_plugins": {}
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.siab.app"
+    }
+  }
 }
