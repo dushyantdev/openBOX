@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.siab.app"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.siab.app"
     }
   },
   "dependent_plugins": {}
